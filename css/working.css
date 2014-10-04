@@ -182,6 +182,27 @@ article.para p {
     font-size:1.5em;
 }
 
+article.debug {
+    background-color:#7D83B0;
+    color:white;
+    padding:1em;
+}
+
+article.debug a {
+    color:white;
+}
+
+article.debug p {
+    margin:0;
+    padding:0;
+    text-align:center;
+    width:100%;
+}
+
+article.short {
+    height:8em;
+}
+
 /*
 .mainproject {
     background-color:#222;

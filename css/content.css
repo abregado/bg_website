@@ -162,6 +162,15 @@ article.link:hover {
     background-color:#3c3c3c;
 }
 
+article.debug {
+    background-color:#7D83B0;
+    color:white;
+}
+
+article.debug a {
+    color:white;
+}
+
 div#main {
 	float: left;
 	background-color: #111;
