@@ -46,6 +46,14 @@ html,body {
 		padding: 0;
 	}
     
+    article {
+        height:8em;
+    }
+    
+    article p {
+        display:none;
+    }
+    
     article.width3 p{
         font-size:1em;
     }
@@ -111,13 +119,14 @@ article {
 	float: left;
 	background-color: #2a2a2a; 
     text-decoration: none;
-    color: #ccc;
+    color: white;
     background-size: auto 100%;
     background-repeat: no-repeat;
 }
 
 article h2 {
     color:rgb(204, 204, 204);
+    color:white;
     font-size:1.1em;
     padding-top:0;
     margin-top:0;
