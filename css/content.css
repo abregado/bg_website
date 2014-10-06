@@ -240,6 +240,12 @@ article.quote {
 article.quote h2 {
     font-size:2.5em;
 }
+
+article.stretch {
+    background-repeat:no-repeat;
+    background-size:100% auto;
+    height: auto;
+}
 /*
 .mainproject {
     background-color:#222;
